@@ -1,11 +1,10 @@
-<h1>Hi, I'm Gabriel! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a></h1>
+<h1>Hi, I'm Gabriel! <br/> <a href="https://www.linkedin.com/in/gabriel-goz/">Cybersecurity Professional</a></h1>
 
 <h2>👨‍💻Recent Projects:</h2>
 
 - <b>Azure Cloud Cybersecurity Projects</b>
   - [Creating a Live Honeypot/SOC in Azure](https://github.com/njgabe/Azure.Cloud.SOC-Honeypot)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)

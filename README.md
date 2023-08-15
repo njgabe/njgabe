@@ -7,7 +7,6 @@
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/njgabe/FailedRDPinWindows)
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](willlinksoon)
   - [Active Directory Bulk User Creation](willlinksoon)
   - [FIM (File Integrity Monitor)](comingsoon)

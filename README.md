@@ -6,6 +6,7 @@
   - [Creating a Live Honeypot/SOC in Azure](https://github.com/njgabe/Azure.Cloud.SOC-Honeypot)
 
 - <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/njgabe/FailedRDPinWindows)
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](willlinksoon)
   - [Active Directory Bulk User Creation](willlinksoon)
